@@ -1,4 +1,4 @@
-
+# Author : Lakshya Marodia (21_Aug_24)
 # Tic-Tac-Toe Game in Java
 
 This is a simple console-based Tic-Tac-Toe game implemented in Java. The game allows two players to take turns and compete against each other in a 3x3 grid. The first player to align three of their symbols (either 'X' or 'O') horizontally, vertically, or diagonally wins the game.
